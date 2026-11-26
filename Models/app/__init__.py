@@ -1,0 +1,1 @@
+"""Member 1: OCR + LLM extraction service."""
